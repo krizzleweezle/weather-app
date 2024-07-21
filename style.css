@@ -11,7 +11,7 @@ body {
   width: 90%;
   max-width: 470px;
   background: linear-gradient(135deg, #bd83b2, #5b548a);
-  color: #fff;
+  color: #f5ecec;
   margin: 100px auto 0;
   border-radius: 20px;
   padding: 40px 35px;
@@ -27,7 +27,7 @@ body {
   border: 0;
   outline: 0;
   background: #ebfffc;
-  color: #555;
+  color: #3b3636;
   padding: 10px 25px;
   height: 60px;
   border-radius: 30px;
